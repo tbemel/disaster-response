@@ -19,6 +19,8 @@ It contains 26,386 rows, of which, ~23% are not related to categories. We assume
 
 The data set is quite unbalanced in relation to the each of the categorization. Categories with small related samples could lead to low accuracy in its prediction, as not a lot of words could be identified that segregate that population vs the rest of the categories. 
 
+### Note on files in this repository:
+The file models/classifier.pikl was not uploaded in gitub given its size of 179MB. You can regenerate it by running the 2 steps in 1. above.
 
 
 
