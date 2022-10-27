@@ -21,7 +21,7 @@ The data set is quite unbalanced in relation to the each of the categorization. 
 
 ### Note on files in this repository:
 The file models/classifier.pikl was not uploaded in gitub given its size of 179MB. You can regenerate it by running the 2 steps in 1. above.
-
+The gridseach parameters have been kept small to minimize the run time. A more precise model could be done through extensive parameter options tuning/ testing.
 
 
 
