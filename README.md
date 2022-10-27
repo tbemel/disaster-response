@@ -1,5 +1,12 @@
 # Disaster Response Pipeline Project
 
+
+### Project Purpose:
+As part of my Udacity DataScience nanodegree, a full data stack project had to be created to 
+1) Load 2 different Disaster response related messages csv files, blend them and save the cleansed data to a SQLite1 db
+2) Load the db data and develop/ save as pickle a ML training model to forecast disaster response incident classifications based on the text of the message
+3) Load the model into a Flask webserver, using plotly, visualize some of the data and have an interactive message form to use the ML model to predict the classification of the message. 
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
