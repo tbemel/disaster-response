@@ -19,7 +19,7 @@ As part of my Udacity DataScience nanodegree, here is a great full data stack pr
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Open in your browser the following link http://0.0.0.0:3001/
 
 ### Note on data set:
 The dataset was provided as part of an Udacity learning project. 
