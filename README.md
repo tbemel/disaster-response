@@ -8,6 +8,7 @@ As part of my Udacity DataScience nanodegree, here is a great full data stack pr
 3) Load the model into a Flask webserver, using plotly, visualize some of the data and have an interactive message form to use the ML model to predict the classification of the message. 
 
 ### Instructions how to run the app:
+0. Ensure you pip installed the proper python modules as in the file app/requirements.txt
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
