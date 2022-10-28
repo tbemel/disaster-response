@@ -2,17 +2,17 @@
 
 
 ### Project Purpose:
-As part of my Udacity DataScience nanodegree, a full data stack project had to be created to 
+As part of my Udacity DataScience nanodegree, here is a great full data stack project to
 1) Load 2 different Disaster response related messages csv files, blend them and save the cleansed data to a SQLite1 db
 2) Load the db data and develop/ save as pickle a ML training model to forecast disaster response incident classifications based on the text of the message
 3) Load the model into a Flask webserver, using plotly, visualize some of the data and have an interactive message form to use the ML model to predict the classification of the message. 
 
-### Instructions:
+### Instructions how to run the app:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
+    - To run ML pipeline that trains classifier and saves the model as a pickle file
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
 2. Run the following command in the app's directory to run your web app.
